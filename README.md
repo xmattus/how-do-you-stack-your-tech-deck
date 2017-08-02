@@ -1,2 +1,3 @@
-# how-do-you-stack-your-tech-deck
-SRCCON 2017
+# How Do You Stack Your Tech Deck?
+
+Matt Johnson / Elliot Bentley / SRCCON 2017
